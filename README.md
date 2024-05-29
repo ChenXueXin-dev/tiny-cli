@@ -7,6 +7,8 @@ English | [简体中文](README.zh-CN.md)
 [Tiny CLI Website](https://opentiny.design/tiny-cli/home)
 
 
+
+
 ## Installation
 
 Open git bash, zsh, and other command-line tools, type the following command, and press Enter：
